@@ -1,1 +1,1 @@
-[# rsschool-cv](https://ivanio2023.github.io/rsschool-cv/cv)
+https://IvanIO2023.github.io/rsschool-cv
